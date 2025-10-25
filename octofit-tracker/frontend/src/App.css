@@ -1,0 +1,40 @@
+
+body {
+  background-color: #f8f9fa;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+.card {
+  background: linear-gradient(135deg, #e3f0ff 0%, #f8f9fa 100%);
+  color: #222;
+}
+
+.table {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.table th {
+  background: #343a40;
+  color: #fff;
+}
+
+.btn {
+  margin: 5px;
+}
+
+.modal-content {
+  border-radius: 10px;
+}
+
+.form-control {
+  margin-bottom: 10px;
+}
